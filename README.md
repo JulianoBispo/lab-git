@@ -10,4 +10,4 @@ This repository was created with the purpose of receiving all my tests, so excus
 
 ### Beginner leave your name recorded below
 
-*[Juliano Bispo](https://github.com/JulianoBispo)
+[Juliano Bispo](https://github.com/JulianoBispo)
